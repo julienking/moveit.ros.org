@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2014-01-01 00:00:40+00:00
-layout: page
+layout: default
 slug: lynxmotion-servo
 title: Lynxmotion Servo
 wordpress_id: 566

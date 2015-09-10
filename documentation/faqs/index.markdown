@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-11-20 04:52:13+00:00
-layout: page
+layout: default
 slug: faqs
 title: FAQs
 wordpress_id: 93

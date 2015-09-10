@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:59:42+00:00
-layout: page
+layout: default
 slug: clamarm
 title: ClamArm
 wordpress_id: 562

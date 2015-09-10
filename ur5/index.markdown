@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:41:18+00:00
-layout: page
+layout: default
 slug: ur5
 title: UR5
 wordpress_id: 504

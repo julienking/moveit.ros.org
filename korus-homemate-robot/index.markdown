@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:58:02+00:00
-layout: page
+layout: default
 slug: korus-homemate-robot
 title: Korus Homemate Robot
 wordpress_id: 556

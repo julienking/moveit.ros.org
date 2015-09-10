@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:40:15+00:00
-layout: page
+layout: default
 slug: sia5
 title: SIA5
 wordpress_id: 502

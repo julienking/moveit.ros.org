@@ -2,7 +2,7 @@
 author: hersh
 comments: false
 date: 2013-11-19 17:07:41+00:00
-layout: page
+layout: default
 slug: moveit
 title: Home
 wordpress_id: 5

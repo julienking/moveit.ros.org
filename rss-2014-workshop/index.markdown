@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2014-01-11 03:48:12+00:00
-layout: page
+layout: default
 slug: rss-2014-workshop
 title: RSS 2014 Workshop
 wordpress_id: 884

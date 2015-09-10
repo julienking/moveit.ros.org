@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-08 02:13:26+00:00
-layout: page
+layout: default
 slug: tutorials
 title: Tutorials
 wordpress_id: 120

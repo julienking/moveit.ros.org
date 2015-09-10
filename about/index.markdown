@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-11-20 04:37:44+00:00
-layout: page
+layout: default
 slug: about
 title: About
 wordpress_id: 87

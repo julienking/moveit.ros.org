@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:57:09+00:00
-layout: page
+layout: default
 slug: robwork
 title: Rob@Work
 wordpress_id: 552

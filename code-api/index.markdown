@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2014-01-02 03:33:06+00:00
-layout: page
+layout: default
 slug: code-api
 title: Code API
 wordpress_id: 619

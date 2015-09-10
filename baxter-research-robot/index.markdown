@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 17:48:19+00:00
-layout: page
+layout: default
 slug: baxter-research-robot
 title: Baxter Research Robot
 wordpress_id: 408

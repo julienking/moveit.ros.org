@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:46:17+00:00
-layout: page
+layout: default
 slug: tum-rosie
 title: TUM Rosie
 wordpress_id: 523

@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:46:47+00:00
-layout: page
+layout: default
 slug: kawada-hiro
 title: Kawada Hiro
 wordpress_id: 525

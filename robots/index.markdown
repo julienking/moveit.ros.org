@@ -2,16 +2,16 @@
 author: admin
 comments: false
 date: 2013-12-08 02:59:02+00:00
-layout: page
+layout: default
 slug: robots
 title: Robots
 wordpress_id: 127
 ---
 
 MoveIt! has now been used on over 65 robots by the community. This page collects information about using MoveIt! with different robots. Click on individual robots to see details.
-[table th="0" delimiter="|"]
+
 **We are looking for robot maintainers and new robots:** If you are willing to maintain the MoveIt! packages for any robot in this list or if you would like to add a robot to this list, please email the [moveit-users](/wordpress/?page_id=89#mailing_list) mailing list.
-[/table]
+
 [table th="0"]
 [![](/wordpress/wp-content/uploads/2013/12/motomansia10d-e1388518407577.jpg)](/sia5/),[![](/wordpress/wp-content/uploads/2013/12/UR5_Robot01-e1388518464480.jpg)](/ur5/),[![](/wordpress/wp-content/uploads/2013/12/Kinova-e1388518514672.jpg)](/kinova-jaco/),[![](/wordpress/wp-content/uploads/2013/12/ABBIRB2400-e1388518661309.jpg)](/abb-irb-2400/)
 [Motoman (SIA5)/SIA10d/(SIA20)](/sia5/),[Universal Robots UR5/(UR10)](/ur5/),[Kinova Jaco](/kinova-jaco/),[ABB IRB 2400](/abb-irb-2400/)
@@ -62,4 +62,4 @@ MoveIt! has now been used on over 65 robots by the community. This page collects
 [/table]
 [table th="0" delimiter="|"]
 **Need Custom Development?**: The MoveIt! development team at SRI International is open to contracting and consulting opportunities around MoveIt!. If you need help with integration of MoveIt! on your robot or applications, please email _robot_ dot _moveit_ at _gmail_ dot _com_.
-[/table] 
+[/table]

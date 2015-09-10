@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-08 05:13:00+00:00
-layout: page
+layout: default
 slug: pr2
 title: PR2
 wordpress_id: 153

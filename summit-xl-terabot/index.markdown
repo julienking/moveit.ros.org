@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:50:15+00:00
-layout: page
+layout: default
 slug: summit-xl-terabot
 title: Robotnik XL-Terabot
 wordpress_id: 527

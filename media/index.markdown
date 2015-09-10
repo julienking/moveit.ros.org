@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-11-20 04:15:05+00:00
-layout: page
+layout: default
 slug: media
 title: Media
 wordpress_id: 68

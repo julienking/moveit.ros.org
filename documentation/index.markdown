@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-11-20 04:34:52+00:00
-layout: page
+layout: default
 slug: documentation
 title: Documentation
 wordpress_id: 85

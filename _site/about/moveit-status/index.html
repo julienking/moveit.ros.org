@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+
+    <link href="/bootstrap-3.3.5-dist/css/bootstrap.css" rel="stylesheet">
+    <style>
+        .brand-logo{
+            width: 62%;
+        }
+    </style>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></sc\
+ript>
+    <![endif]-->
+  </head>
+
+  <body>
+<!-- <img src="http://moveit.ros.org/wordpress/wp-content/uploads/2014/01/moveit-title-small.png" alt="MoveIt! (moveit.ros.org)" title="MoveIt!"> -->
+
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a  class='navbar-brand' href="#">
+              <img alt="Brand" class='brand-logo' src="http://moveit.ros.org/wordpress/wp-content/uploads/2014/01/moveit-title-small.png">
+          </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
+            <li><a href="install/">Install</a></li>
+
+
+
+            <li class="dropdown">
+              <a href="/documentation/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                    Documentation <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/documentation/">Documentation</a></li>
+                <li role='separator' class='divider'>
+                <li><a href="/documentation/concepts/">Concepts</a></li>
+                <li role='separator' class='divider'>
+                <li><a href="/documentation/tutorials/">Tutorials</a></li>
+                <li role='separator' class='divider'>
+                <li><a href="/documentation/faqs/">FAQS</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/code-api/">Code API</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Robots</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Media</a></li>
+            <li><a href="#">Support</a></li>
+            <li><a href="#">Blog</a></li>
+          </ul>
+          <form class="navbar-form navbar-left" role="search">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Search">
+            </div>
+            <button type="submit" class="btn btn-default">Submit</button>
+          </form>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+
+    <div class="container">
+      <div class='row'>
+        <div class='col-sm-8'>
+          <p>
+              <p>This page highlights the status of MoveIt! components - it indicates how stable individual components are and how well they have been tested. It also indicates how much support users can expect for different components and robots. (See legend below for description of the codes.)</p>
+
+<h3 id="current-status-components">Current STATUS (Components)</h3>
+
+<p>[table sort=”,desc”]
+Component, Status
+Kinematics (Serial-chain), Beta
+Kinematics (with Planar Joints), Alpha
+Kinematics (parallel robots), Alpha
+Collision Checking (FCL), Beta
+Collision Checking (Sphere-based), Alpha
+Motion Planning (Joint Goals), Beta
+Motion Planning (Pose Goals), Beta
+Motion Planning (Kinematic Constraints), Beta
+Motion Planning (Desired end-effector trajectories), Alpha
+Motion Planning (Fast replanning), Beta
+Motion Planners (OMPL), Beta
+Trajectory Filtering (Iterative), Beta
+Navigation, Alpha
+3D Navigation, Unsupported
+3D Self-filtering (Point-cloud), Beta
+3D Self-filtering (Depth-map), Beta
+3D Occupancy Map (Octomap), Beta
+Planning Scene, Beta
+Rviz Plugin, Beta
+Benchmarking, Alpha
+Benchmarking GUI Tool, Alpha
+Workspace Analysis, Beta
+Pick and Place, Alpha
+Dual-arm Manipulation, Alpha
+MoveIt! Setup Assistant, Beta
+[/table]</p>
+
+<p><strong>Current STATUS (Robots)</strong></p>
+
+<p>To see the current status of MoveIt! on any robot, check the <a href="/robots">Robots using MoveIt!</a> page and the individual robot page.</p>
+
+<hr />
+
+<hr />
+
+<p>**STATUS Code (Components)
+**
+[table]
+Code, Description
+Unsupported, This component is not implemented in MoveIt! currently.
+Alpha,This component is experimental and has not been widely tested. Users should not expect extensive support for this component.
+Beta,This component is undergoing wide testing with the intention of being moved to Stable status. Users are encouraged to ask about testing this component and contributing to moving it to Stable status.
+Stable,This component is widely tested and expected to work on a wide variety of robots. Users should expect support for this component and immediately notify the maintainers of any bugs.
+[/table]</p>
+
+<p>**STATUS Code (Robots)
+**
+[table]
+Code, Description
+Unsupported, “There is no support for MoveIt! on this robot, i.e. no one has used MoveIt! with this robot.”
+Alpha,MoveIt! has been integrated on this robot by at least one user. A MoveIt! config package is available (but maybe not publicly). Ask on the moveit-users mailing list to see if someone is willing to share the config package with you.
+Beta,MoveIt! has been extensively tested on this robot and is actively maintained for this robot. The MoveIt! config package for this robot is publicly available.
+Stable,MoveIt! is officially supported on this robot.
+[/table]</p>
+
+          </p>
+        </div>
+        <div class='col-sm-3 col-sm-offset-1'>
+          <h4>BLOG</h4>
+        </div>
+      </div>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"> </script>
+    <script type="text/javascript" src="/bootstrap-3.3.5-dist/js/bootstrap.min.js" ></script>
+  </body>
+</html>

@@ -2,7 +2,7 @@
 author: hersh
 comments: false
 date: 2014-01-02 19:51:57+00:00
-layout: page
+layout: default
 slug: moveit-setup-assistant
 title: MoveIt! Setup Assistant
 wordpress_id: 634

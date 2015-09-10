@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-08 05:22:09+00:00
-layout: page
+layout: default
 slug: moveit-status
 title: Status
 wordpress_id: 164

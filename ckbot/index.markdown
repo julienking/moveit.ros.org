@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:56:19+00:00
-layout: page
+layout: default
 slug: ckbot
 title: CKBot
 wordpress_id: 548

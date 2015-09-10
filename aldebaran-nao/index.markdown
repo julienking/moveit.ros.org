@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:52:03+00:00
-layout: page
+layout: default
 slug: aldebaran-nao
 title: Aldebaran NAO
 wordpress_id: 535

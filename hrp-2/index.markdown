@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2014-01-07 22:46:35+00:00
-layout: page
+layout: default
 slug: hrp-2
 title: HRP-2
 wordpress_id: 825
