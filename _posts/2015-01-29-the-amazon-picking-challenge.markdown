@@ -7,14 +7,14 @@ slug: the-amazon-picking-challenge
 title: The Amazon Picking Challenge
 description: Amazon's automated warehouses are successful at removing much of the walking and searching for items within a warehouse. However, commercially viable automated picking in unstructured environments still remains a difficultc challenge. In order to spur the advancement of this fundamental technology we are excited to be organizing the first Amazon Picking Challenge at ICRA 2015.
 media_type: image
-media_link: /wordpress/wp-content/uploads/2015/01/amazon_pick_banner_robot.png
+media_link: {{ site.baseurl }}/wordpress/wp-content/uploads/2015/01/amazon_pick_banner_robot.png
 wordpress_id: 1097
 categories:
 - MoveIt!
 - ROS
 ---
 
-[![](/wordpress/wp-content/uploads/2015/01/amazon_pick_banner_robot.png)](/wordpress/wp-content/uploads/2015/01/amazon_pick_banner_robot.png)
+[![]({{ site.baseurl }}/wordpress/wp-content/uploads/2015/01/amazon_pick_banner_robot.png)]({{ site.baseurl }}/wordpress/wp-content/uploads/2015/01/amazon_pick_banner_robot.png)
 
 [Cross-posted from robotics-worldwide]
 

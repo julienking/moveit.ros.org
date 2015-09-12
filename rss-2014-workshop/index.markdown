@@ -8,7 +8,7 @@ title: RSS 2014 Workshop
 wordpress_id: 884
 ---
 
-[![](/wordpress/wp-content/uploads/2014/01/photo-1024x382.jpg)](/wordpress/wp-content/uploads/2014/01/photo.jpg)[no_toc]
+[![]({{ site.baseurl }}/wordpress/wp-content/uploads/2014/01/photo-1024x382.jpg)]({{ site.baseurl }}/wordpress/wp-content/uploads/2014/01/photo.jpg)[no_toc]
 
 
 ## Next-Generation Robotics: Academia, Start-ups and Industry
