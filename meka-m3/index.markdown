@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2014-01-01 18:56:35+00:00
-layout: default
+layout: page
 slug: meka-m3
 title: MEKA M3
 wordpress_id: 608

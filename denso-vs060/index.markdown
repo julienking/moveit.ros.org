@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:56:38+00:00
-layout: default
+layout: page
 slug: denso-vs060
 title: Denso vs060
 wordpress_id: 550

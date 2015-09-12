@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:40:15+00:00
-layout: default
+layout: page
 slug: sia5
 title: SIA5
 wordpress_id: 502
@@ -22,7 +22,7 @@ wordpress_id: 502
   * Maintainer(s) :
 
 	
-  * STATUS: [Alpha](http://moveit.ros.org/about/moveit-status#legend)
+  * STATUS: [Alpha](/about/moveit-status#legend)
 
 
 

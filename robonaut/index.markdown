@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:36:39+00:00
-layout: default
+layout: page
 slug: robonaut
 title: Robonaut
 wordpress_id: 499

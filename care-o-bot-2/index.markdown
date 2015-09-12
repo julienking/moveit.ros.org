@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-31 23:54:40+00:00
-layout: default
+layout: page
 slug: care-o-bot-2
 title: Care-O-Bot
 wordpress_id: 542

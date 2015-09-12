@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2014-02-20 00:37:51+00:00
-layout: default
+layout: page
 slug: hollie
 title: HOLLIE
 wordpress_id: 904

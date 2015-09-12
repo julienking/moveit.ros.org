@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-12-08 02:13:26+00:00
-layout: default
+layout: page
 slug: tutorials
 title: Tutorials
 wordpress_id: 120
@@ -10,7 +10,7 @@ wordpress_id: 120
 
 MoveIt! is state of the art software for mobile manipulation, incorporating the latest advances in motion planning, manipulation, 3D perception, kinematics, control and navigation. It provides an easy-to-use platform for developing advanced robotics applications, evaluating new robot designs and building integrated robotics products for industrial, commercial, R&D and other domains.
 
-MoveIt! is the most widely used open-source software for manipulation and has been used on over 65 robots. See the [Robots](robots) page for a list of some of the robots that MoveIt! is being used with.
+MoveIt! is the most widely used open-source software for manipulation and has been used on over 65 robots. See the [Robots](/robots/) page for a list of some of the robots that MoveIt! is being used with.
 
 
 <p>

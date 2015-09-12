@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2013-11-19 20:43:44+00:00
-layout: default
+layout: page
 slug: install
 title: Install
 wordpress_id: 24

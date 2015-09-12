@@ -5,13 +5,17 @@ date: 2015-02-17 19:27:57+00:00
 layout: post
 slug: new-pal-mobile-manipulation-robot-tiago-runs-moveit
 title: New PAL Mobile Manipulation Robot TIAGo runs MoveIt!
+description: From factory assembly lines to warehouses and living rooms, robots are always expanding their role in our lives. Both hardware and software are critical for this transformation, so students taking the Intro to Robotics class in Columbia University’s Mechanical Engineering Dept. are using a Baxter Robot (Rethink Robotics Inc.) along with MoveIt! to learn robotics fundamentals. ...
+media_type: image
+media_link: /wordpress/wp-content/uploads/2015/02/TIAGO.png
+
 wordpress_id: 1117
 categories:
 - MoveIt!
 - ROS
 ---
 
-[![](http://moveit.ros.org/wordpress/wp-content/uploads/2015/02/Plegado-1.png)](http://moveit.ros.org/wordpress/wp-content/uploads/2015/02/Plegado-1.png)
+[![](/wordpress/wp-content/uploads/2015/02/Plegado-1.png)](/wordpress/wp-content/uploads/2015/02/Plegado-1.png)
 
 [cross-listed from Jordi Pagès email to MoveIt! Users]
 
@@ -34,12 +38,14 @@ For further information contact us at tiago@pal-robotics.com. We will be pleased
 We look forward to hearing back from you.
 
 Kindest regards,
+
 The PAL Robotics team
+
 
 P.S.: A peek of some of the other things we do:
 
 [PAL Robotics at Humanoids 2014](https://www.youtube.com/watch?v=KzALr5Ie4fI)
-[PMB2 Mobile base](https://www.youtube.com/watch?v=qmhuy7ZXSQI)
-[REEM-C](https://www.youtube.com/watch?v=4HZIDpNSKyc)
-	
 
+[PMB2 Mobile base](https://www.youtube.com/watch?v=qmhuy7ZXSQI)
+
+[REEM-C](https://www.youtube.com/watch?v=4HZIDpNSKyc)
