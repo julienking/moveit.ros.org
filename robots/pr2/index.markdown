@@ -77,10 +77,10 @@ For using the PR2 with a F/T sensor, use the PR2 MoveIt! config package from KTH
 
 
 	
-  1. Pick and Place ([Alpha]({{ site.baseurl }}/wordpress/?page_id=164#legend))
+  1. Pick and Place ([Alpha](/wordpress/?page_id=164#legend))
 
 	
-  2. Benchmarking ([Alpha]({{ site.baseurl }}/wordpress/?page_id=164#legend))
+  2. Benchmarking ([Alpha](/wordpress/?page_id=164#legend))
 
 
 
