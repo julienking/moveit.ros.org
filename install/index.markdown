@@ -34,7 +34,8 @@ Follow all the instructions to install the base version of ROS: [Install ROS-Bas
 
 MoveIt! can be installed directly as a set of debian packages on Ubuntu. To get a complete installation, choose your ROS distribution below:
 
-**ROS Hydro**
+#### **ROS Hydro**
+
 <div class="accordion" id="accordion2">
   <div class="accordion-group">
     <div class="accordion-heading">
@@ -59,7 +60,8 @@ MoveIt! can be installed directly as a set of debian packages on Ubuntu. To get 
 </div>
 
 
-**ROS Indigo**
+#### **ROS Indigo**
+
 <div class="accordion" id="accordion2">
   <div class="accordion-group">
     <div class="accordion-heading">
@@ -121,6 +123,7 @@ Now follow the steps for your particular ROS version.
 
 
 #### **STEP 2 & 3: ROS Indigo**
+
 <div class="accordion" id="accordion3">
   <div class="accordion-group">
     <div class="accordion-heading">
