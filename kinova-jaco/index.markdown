@@ -22,7 +22,7 @@ wordpress_id: 506
   * Maintainer(s) :
 
 	
-  * STATUS: [Alpha](http://moveit.ros.org/about/moveit-status#legend)
+  * STATUS: [Alpha](/about/moveit-status#legend)
 
 
 

@@ -8,9 +8,10 @@ title: Code API
 wordpress_id: 619
 ---
 
-[no_toc]
-MoveIt! code API for ROS Indigo is listed here. (For corresponding documentation for ROS Hydro, scroll to the bottom of the page) 
+MoveIt! code API for ROS Indigo is listed here. (For corresponding documentation for ROS Hydro, scroll to the bottom of the page)
 
+
+##ROS Hydro Code API
 
 ### Move Group Interface
 
@@ -18,17 +19,17 @@ MoveIt! code API for ROS Indigo is listed here. (For corresponding documentation
 
 
 
-	
+
   * [MoveGroup class](http://docs.ros.org/indigo/api/moveit_ros_planning_interface/html/classmoveit_1_1planning__interface_1_1MoveGroup.html) - the main C++ interface to the _move_group_node_
 
-	
+
   * [PlanningSceneInterface class](http://docs.ros.org/indigo/api/moveit_ros_planning_interface/html/classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html) - a C++ interface to the planning scene
 
 
   * [MoveIt! commander](http://docs.ros.org/indigo/api/moveit_commander/html/index.html) - documentation for the MoveIt! commander.
 
 
- 
+
 
 
 
@@ -39,16 +40,16 @@ _This API is meant for advanced developers. Most users should use the Move Group
 
 
 
-	
+
   * [Planning](http://docs.ros.org/indigo/api/moveit_ros_planning/html) - The planning components in MoveIt! ROS, especially the planning scene, kinematics and monitors
 
-	
-  * [Move Group](http://docs.ros.org/indigo/api/moveit_ros_move_group/html) - The _move_group_node_
 
-	
+  * [Move Group](http://docs.ros.org/indigo/api/moveit_rosmove_group/html) - The _move_group_node_
+
+
   * [Perception](http://docs.ros.org/indigo/api/moveit_ros_perception/html) - The perception components in MoveIt! ROS
 
-	
+
   * [Robot Interaction](http://docs.ros.org/indigo/api/moveit_ros_robot_interaction/html) - The Interactivity components in MoveIt! ROS
 
 
@@ -61,7 +62,7 @@ _This API is meant for advanced developers. Most users should use the Move Group
 
 
 
-	
+
   * [Core](http://docs.ros.org/indigo/api/moveit_core/html) - The core components in MoveIt! for kinematics, planning scene, constraints, motion planning, collision checking and plugin interfaces
 
 
@@ -74,12 +75,12 @@ _This API is meant for advanced developers. Most users should use the Move Group
 
 
 
-	
+
   * [OMPL Interface](http://docs.ros.org/indigo/api/moveit_planners_ompl/html) - The set of classes that allow MoveIt! to talk with OMPL.
 
 
 
-[toggle title="ROS Hydro Code API"]
+##ROS Hydro Code API
 
 
 
@@ -89,10 +90,10 @@ _This API is meant for advanced developers. Most users should use the Move Group
 
 
 
-	
+
   * [MoveGroup class](http://docs.ros.org/hydro/api/moveit_ros_planning_interface/html/classmoveit_1_1planning__interface_1_1MoveGroup.html) - the main C++ interface to the _move_group_node_
 
-	
+
   * [PlanningSceneInterface class](http://docs.ros.org/hydro/api/moveit_ros_planning_interface/html/classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html) - a C++ interface to the planning scene
 
 
@@ -109,16 +110,16 @@ _This API is meant for advanced developers. Most users should use the Move Group
 
 
 
-	
+
   * [Planning](http://docs.ros.org/hydro/api/moveit_ros_planning/html) - The planning components in MoveIt! ROS, especially the planning scene, kinematics and monitors
 
-	
-  * [Move Group](http://docs.ros.org/hydro/api/moveit_ros_move_group/html) - The _move_group_node_
 
-	
+  * [Move Group](http://docs.ros.org/hydro/api/moveit_rosmove_group/html) - The _move_group_node_
+
+
   * [Perception](http://docs.ros.org/hydro/api/moveit_ros_perception/html) - The perception components in MoveIt! ROS
 
-	
+
   * [Robot Interaction](http://docs.ros.org/hydro/api/moveit_ros_robot_interaction/html) - The Interactivity components in MoveIt! ROS
 
 
@@ -131,7 +132,7 @@ _This API is meant for advanced developers. Most users should use the Move Group
 
 
 
-	
+
   * [Core](http://docs.ros.org/hydro/api/moveit_core/html) - The core components in MoveIt! for kinematics, planning scene, constraints, motion planning, collision checking and plugin interfaces
 
 
@@ -144,10 +145,5 @@ _This API is meant for advanced developers. Most users should use the Move Group
 
 
 
-	
+
   * [OMPL Interface](http://docs.ros.org/hydro/api/moveit_planners_ompl/html) - The set of classes that allow MoveIt! to talk with OMPL.
-
-
-
-[/toggle]
-
